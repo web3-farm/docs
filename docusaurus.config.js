@@ -16,7 +16,7 @@ const config = {
   url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/web3-farm/', // This is used for the site navigation.
+  baseUrl: '/docs/', // This is used for the site navigation.
   trailingSlash: false,
 
   // GitHub pages deployment config.
