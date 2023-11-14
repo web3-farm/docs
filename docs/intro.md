@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+title: "Welcome"
 ---
 
 
@@ -13,21 +14,21 @@ Welcome to the comprehensive documentation for Nature Farm Adventure, a Web3 far
 
 1. **[Game Overview](#game-overview)**
 
-   - Introduction to Nature Farm Adventure
-   - Core Game Mechanics
-   - Sustainable Farming and Eco-Friendly Practices
+   - [Introduction to Nature Farm Adventure](./01_game-overview/intro)
+   - [Core Game Mechanics](./01_game-overview/core-game-mechanics)
+   - [Sustainable Farming and Eco-Friendly Practices](./01_game-overview/sustainable-farming)
 
 2. **[Getting Started](#getting-started)**
 
-   - Setting Up Your Wallet
-   - Navigating the Game Interface
-   - Basic Game Actions and Strategies
+   - [Setting Up Your Wallet](./02_getting-started/setup-wallet)
+   - [Navigating the Game Interface](./02_getting-started/game-interface)
+   - [Basic Game Actions and Strategies](./02_getting-started/basic-game-actions)
 
 3. **[Gameplay Guide](#gameplay-guide)**
 
-   - Farming and Harvesting
-   - Animal Care and Breeding
-   - Community Trading and Interaction
+   - [Farming and Harvesting](./03_gameplay-guide/farm_and_harvest)
+   - [Animal Care and Breeding](./03_gameplay-guide/animal_care_and_breeding)
+   - [Community Trading and Interaction](./03_gameplay-guide/trading_and_interaction)
 
 4. **[Tokenomics and Earning](#tokenomics-and-earning)**
 
