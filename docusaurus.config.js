@@ -68,10 +68,6 @@ const config = {
       image: 'img/social-card.jpg',
       navbar: {
         title: 'Nature Farm Adventure',
-        logo: {
-          alt: 'Nature Farm Adventure Logo',
-          src: 'img/logo.svg',
-        },
         items: [
           {
             type: 'docSidebar',
@@ -79,7 +75,7 @@ const config = {
             position: 'left',
             label: 'Gameplay',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'right'},
           {
             href: 'https://github.com/web3-farm/docs',
             label: 'GitHub',
