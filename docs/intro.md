@@ -14,32 +14,32 @@ Welcome to the comprehensive documentation for Nature Farm Adventure, a Web3 far
 
 1. **[Game Overview](#game-overview)**
 
-   - [Introduction to Nature Farm Adventure](./01_game-overview/intro)
-   - [Core Game Mechanics](./01_game-overview/core-game-mechanics)
-   - [Sustainable Farming and Eco-Friendly Practices](./01_game-overview/sustainable-farming)
+   - [Introduction to Nature Farm Adventure](./01_game-overview/intro.md)
+   - [Core Game Mechanics](./01_game-overview/core-game-mechanics.md)
+   - [Sustainable Farming and Eco-Friendly Practices](./01_game-overview/sustainable-farming.md)
 
 2. **[Getting Started](#getting-started)**
 
-   - [Setting Up Your Wallet](./02_getting-started/setup-wallet)
-   - [Navigating the Game Interface](./02_getting-started/game-interface)
-   - [Basic Game Actions and Strategies](./02_getting-started/basic-game-actions)
+   - [Setting Up Your Wallet](./02_getting-started/setup-wallet.md)
+   - [Navigating the Game Interface](./02_getting-started/game-interface.md)
+   - [Basic Game Actions and Strategies](./02_getting-started/basic-game-actions.md)
 
 3. **[Gameplay Guide](#gameplay-guide)**
 
-   - [Farming and Harvesting](./03_gameplay-guide/farm_and_harvest)
-   - [Animal Care and Breeding](./03_gameplay-guide/animal_care_and_breeding)
-   - [Community Trading and Interaction](./03_gameplay-guide/trading_and_interaction)
+   - [Farming and Harvesting](./03_gameplay-guide/farm_and_harvest.md)
+   - [Animal Care and Breeding](./03_gameplay-guide/animal_care_and_breeding.md)
+   - [Community Trading and Interaction](./03_gameplay-guide/trading_and_interaction.md)
 
 4. **[Tokenomics and Earning](#tokenomics-and-earning)**
 
-   - In-Game Currency and Tokens
-   - Earning and Spending Tokens
-   - Contribution to Real-World Projects
+   - [In-Game Currency and Tokens](./04_tokenomics-and-earning/ingame_currency_and_tokens.md)
+   - [Earning and Spending Tokens](./04_tokenomics-and-earning/earning_and_spending_tokens.md)
+   - [Contribution to Real-World Projects](./04_tokenomics-and-earning/contribution_to_realworld_projects.md)
 
 5. **[Real World Impact](#real-world-impact)**
-   - Overview of Supported Projects
-   - How Your Gameplay Makes a Difference
-   - Transparency and Impact Reports
+   - [Overview of Supported Projects](./05_real-world-impact/overview_of_supportet_projects.md)
+   - [How Your Gameplay Makes a Difference](./05_real-world-impact/how_your_gameplay_makes_a_difference.md)
+   - [Transparency and Impact Reports](./05_real-world-impact/transparency_and_impact_reports.md)
 
 ### For Developers
 

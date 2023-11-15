@@ -40,9 +40,4 @@ title: "Basic Game Actions and Strategies"
 - **Eco-Friendly Techniques**: Implement sustainable practices like crop rotation, composting, and using renewable energy sources.
 - **Learning and Applying**: Utilize the game’s educational content to apply sustainable methods both in the game and potentially in real life.
 
-## Advanced Strategies
-
-- **Analyzing Market Trends**: Keep an eye on market trends to optimize your selling strategy.
-- **Investing in NFTs**: Consider investing in unique NFTs that offer long-term benefits or can be traded for a profit.
-
 By mastering these basic actions and strategies, you'll be well on your way to building a thriving, sustainable farm in "Nature Farm Adventure." Remember, every decision counts towards creating a more sustainable world, both virtually and in reality.
