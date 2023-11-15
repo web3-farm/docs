@@ -1,6 +1,8 @@
 ---
 sidebar_position: 1
-title: "gm dev!"
+title: "Hello World!"
 ---
 
 # Hello World!
+
+gm dev!
