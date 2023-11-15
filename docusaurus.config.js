@@ -64,7 +64,7 @@ const config = {
       "@docusaurus/plugin-content-docs",
       {
         id: "developers",
-        path: "docs/developers",
+        path: "./developers",
         routeBasePath: "developers",
         sidebarPath: require.resolve("./sidebars.js"),
       },
@@ -86,7 +86,7 @@ const config = {
             label: "Documentation",
           },
           {
-            to: '/developers/Intro',    // ./docs-api/Intro.md
+            to: './developers/intro',    // ./docs-api/Intro.md
             label: 'Developers',
             position: 'left',
             activeBaseRegex: `/developers/`,
