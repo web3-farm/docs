@@ -13,15 +13,16 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://web3-farm.github.io/documentation",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/", // This is used for the site navigation.
-  trailingSlash: false,
+  //baseUrl: "/", // This is used for the site navigation.
+  trailingSlash: true,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   projectName: "documentation", // Usually your repo name.
+  organizationName: "web3-farm", // Usually your GitHub org/user name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -102,7 +103,7 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Gameplay",
+            title: "Documentation",
             items: [
               {
                 label: "Getting Started",
