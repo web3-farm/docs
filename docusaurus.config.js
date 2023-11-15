@@ -12,17 +12,13 @@ const config = {
   tagline: "Embark on a Sustainable Farming Journey in the World of Web3!",
   favicon: "img/favicon.ico",
 
-  // Set the production url of your site here
-  url: "https://web3-farm.github.io/documentation",
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  //baseUrl: "/", // This is used for the site navigation.
-  trailingSlash: true,
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  projectName: "documentation", // Usually your repo name.
-  organizationName: "web3-farm", // Usually your GitHub org/user name.
+  
+  url: 'https://web3-farm.github.io',
+  baseUrl: '/documentation',
+  organizationName: 'web3-farm',
+  projectName: 'documentation',
+  deploymentBranch: 'main',
+  trailingSlash: false,
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
